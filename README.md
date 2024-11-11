@@ -93,16 +93,3 @@ OPENAI_API_KEY= <openai_api_key>
 - Back-End: Node.js, Express.js, JWT
 - Database: PostgreSQL
 
-## Contributing
-
-We welcome contributions from the community to enhance DecisionHub. Feel free to submit bug reports, feature requests, or pull requests through the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contact
-
-For any questions or inquiries, please reach out to the development team at [DecisionHub](mailto:decisionhub629@gmail.com)
-
-Enjoy using DecisionHub and stay productive!
