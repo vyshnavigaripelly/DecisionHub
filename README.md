@@ -1,6 +1,5 @@
 # DecisionHub
 
-A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.
 
 #### Web Link: https://decisionhub.netlify.app/
 
